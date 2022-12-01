@@ -1,0 +1,58 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "Advent-of-Code-2022"
+authors = [{name = "a", email = "b"}]
+readme = "README.md"
+license = {file = "LICENSE"}
+keywords = []
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Typing :: Typed",
+]
+requires-python = "~=3.7"
+dependencies = []
+dynamic = ["version", "description"]
+
+[project.optional-dependencies]
+dev = [
+    "autoflake",
+    "black",
+    "flake8",
+    "isort",
+    "mypy",
+    "pre-commit",
+    "pyupgrade",
+]
+docs = [
+    "furo",
+    "myst-parser",
+    "sphinx",
+    "sphinx-autobuild",
+    "sphinx-copybutton",
+    "sphinxext-opengraph",
+]
+tests = [
+    "pytest"
+]
+
+[project.urls]
+Documentation = "https://Advent-of-Code-2022.readthedocs.io/en/stable/"
+Changelog = "https://Advent-of-Code-2022.readthedocs.io/en/stable/changelog.html"
+"Source code" = "https://github.com/c/Advent-of-Code-2022"
+Issues = "https://github.com/c/Advent-of-Code-2022/issues"
+
+[tool.flit.module]
+name = "advent_of_code_2022"
+[tool.isort]
+profile = "black"
