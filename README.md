@@ -7,3 +7,4 @@ This repo contains my solutions for [Advent of Code 2022](https://adventofcode.c
 The solution to each day's puzzle (along with any input) is stored in its own directory:
 
 -   [Day 1: Calorie Counting](./day01)
+-   [Day 2: Rock Paper Scissors](./day02)
