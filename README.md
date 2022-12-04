@@ -9,3 +9,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 -   [Day 1: Calorie Counting](./day01)
 -   [Day 2: Rock Paper Scissors](./day02)
 -   [Day 3: Rucksack Reorganization](./day03)
+-   [Day 4: Camp Cleanup](./day04)
