@@ -14,3 +14,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 -   [Day 6: Tuning Trouble](./day06)
 -   [Day 7: No Space Left On Device](./day07)
 -   [Day 8: Treetop Tree House](./day08)
+-   [Day 9: Rope Bridge](./day09)
