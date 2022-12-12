@@ -17,3 +17,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 -   [Day 9: Rope Bridge](./day09)
 -   [Day 10: Cathode-Ray Tube](./day10)
 -   [Day 11: Monkey in the Middle](./day11)
+-   [Day 12: Hill Climbing Algorithm](./day12)
