@@ -16,3 +16,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 -   [Day 8: Treetop Tree House](./day08)
 -   [Day 9: Rope Bridge](./day09)
 -   [Day 10: Cathode-Ray Tube](./day10)
+-   [Day 11: Monkey in the Middle](./day11)
