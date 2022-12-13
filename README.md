@@ -18,3 +18,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 -   [Day 10: Cathode-Ray Tube](./day10)
 -   [Day 11: Monkey in the Middle](./day11)
 -   [Day 12: Hill Climbing Algorithm](./day12)
+-   [Day 13: Distress Signal](./day13)
