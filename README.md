@@ -20,3 +20,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 -   [Day 12: Hill Climbing Algorithm](./day12)
 -   [Day 13: Distress Signal](./day13)
 -   [Day 14: Regolith Reservoir](./day14)
+-   [Day 15: Beacon Exclusion Zone](./day15)
