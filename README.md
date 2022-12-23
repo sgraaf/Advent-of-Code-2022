@@ -26,3 +26,6 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 -   [Day 18: Boiling Boulders](./day18)
 -   Day 19: Not Enough Minerals
 -   [Day 20: Grove Positioning System](./day20)
+-   Day 21: Monkey Math
+-   Day 22: Monkey Map
+-   [Day 23: Unstable Diffusion](./day23)
