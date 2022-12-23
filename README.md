@@ -24,3 +24,5 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 -   [Day 16: Proboscidea Volcanium](./day16)
 -   Day 17: Pyroclastic Flow
 -   [Day 18: Boiling Boulders](./day18)
+-   Day 19: Not Enough Minerals
+-   [Day 20: Grove Positioning System](./day20)
